@@ -1,10 +1,13 @@
 # Rusted
 A Rusty text-based game built from the ground-up.
 ## Abstract
-Welcome fellows :eyes: 
+Welcome fellows :eyes:
+
 I want to create a text-based game entirely from scratch. This will be both a creative and technical endeavour with a lot room for autonomy for everyone involved, think of it as a learning opportunity and something for the ol' portfolio :wink: 
+
 **Why have I chosen a game as a portfolio project?**
 Game design is an endeavour that heavily leans on creativity as well as technicality, so in short: It's inclusive af. There will more than likely be a place for you in the development cycle no-matter your interests (as long as you are interested in *something*). 
+
 **Why should it be text-based?**
 Let's face it, we're not Bethesda. We don't have the resources to create a fully-fledged game in our free time without either killing ourselves with the workload or scoping the project down to the point it's barely an endeavour anymore.
 However, text-based games give us an out to this problem:
