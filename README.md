@@ -15,7 +15,8 @@ However, text-based games give us an out to this problem:
   - This could involve story-telling, text-art, sound design or world building.
 - They are simple enough to make it feasible to build without an existing engine, but complex enough to be genuinely technically challenging. 
 
-**What's my vision at the time of writing this?**
+**What's my vision at the time of writing this?** 
+
 I want:
 - To take full advantage of the text-based medium and reimagine it for the modern world of games.
 - To have some killer world building, lore, character building and storytelling.
